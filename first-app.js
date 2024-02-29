@@ -1,9 +1,6 @@
-const person = {
-  name: "Abinash",
-  age: 30,
-  greet() {
-    console.log("Hi My name is " + this.name);
-  },
-};
+const http = require("http");
+const routes = require("./routes");
 
-console.log(person.greet());
+const server = http.createServer(routes);
+
+server.listen(3000);
