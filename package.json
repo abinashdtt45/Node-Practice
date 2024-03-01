@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node first-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinashdtt45/Node-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinashdtt45/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/abinashdtt45/Node-Practice#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
