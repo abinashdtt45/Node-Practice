@@ -1,1 +1,16 @@
-[{"title":"asfd"},{"title":"asfdasdfasd"},{"title":"asfdasdfasdsadf"},{"title":"sfadsawsdf"},{"title":"ASDFASDF"}]
+[
+  {
+    "id": "1234",
+    "title": "A Book",
+    "imageUrl": "https://www.truckingtruth.com/cdn/photos-400x400/blue-prime-truck-400x400.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "title": "New Book",
+    "imageUrl": "https://www.truckingtruth.com/cdn/photos-400x400/blue-prime-truck-400x400.jpg",
+    "description": "This is a book on trucks",
+    "price": "24",
+    "id": "0.5038538228022713"
+  }
+]
